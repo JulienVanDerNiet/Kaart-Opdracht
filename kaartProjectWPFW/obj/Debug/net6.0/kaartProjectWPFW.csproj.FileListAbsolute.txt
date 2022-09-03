@@ -1,0 +1,15 @@
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\bin\Debug\net6.0\kaartProjectWPFW.exe
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\bin\Debug\net6.0\kaartProjectWPFW.deps.json
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\bin\Debug\net6.0\kaartProjectWPFW.runtimeconfig.json
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\bin\Debug\net6.0\kaartProjectWPFW.dll
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\bin\Debug\net6.0\kaartProjectWPFW.pdb
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.csproj.AssemblyReference.cache
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.AssemblyInfoInputs.cache
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.AssemblyInfo.cs
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.csproj.CoreCompileInputs.cache
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.dll
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\refint\kaartProjectWPFW.dll
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.pdb
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\kaartProjectWPFW.genruntimeconfig.cache
+D:\WPFW\Kaart Opdracht\kaartProjectWPFW\obj\Debug\net6.0\ref\kaartProjectWPFW.dll
